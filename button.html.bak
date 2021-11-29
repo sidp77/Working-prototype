@@ -1,0 +1,18 @@
+<html>
+<div class="header">
+<h1>Header</h1>
+<p>HEALTH CARE SYSTEM FOR SUNITA header</p>
+</div>
+.header {
+padding:60px;
+text-align: center;
+background:#labc9c;
+color:white;
+font-size:30px;
+}
+		
+<body>
+<applet CODE = "button.class" WIDTH = 1000 HEIGHT = 500></applet>
+</body>
+</html>
+
